@@ -54,7 +54,7 @@ Recovered from `Mach_Zehnder_Worksheet_v36_Source.zip` in the author's Downloads
 
 The source archive contained no Python generators for the other seven SVG figures. Those figures are fully editable SVG sources and can be rendered directly; no missing generator is required to reproduce them.
 
-Changes from that baseline: the requested triptych introduction; “Snapshot in time.” label; “Out of phase: destructive interference” heading; an explanation of partial cancellation for unequal field amplitudes; and linked author, ORCID, and CC BY 4.0 attribution. Other worksheet prose and figure geometry are preserved. First-page figure spacing preserves the eight-page layout. Header-height and PDF transparency-group compatibility adjustments ensure a clean build. Build instructions, licensing, and conversion tooling were added.
+Changes from that baseline: the requested triptych introduction; “Out of phase: destructive interference” heading; an explanation of partial cancellation for unequal field amplitudes; and linked author, ORCID, and CC BY 4.0 attribution. Other worksheet prose and figure geometry are preserved. The redundant triptych snapshot label was removed after review. The fancyhdr footer puts the page number on the left and the copyright, ORCID, and “All materials herein CC BY 4.0” statement on the right. First-page figure spacing preserves the eight-page layout. Header-height and PDF transparency-group compatibility adjustments ensure a clean build. Build instructions, licensing, and conversion tooling were added.
 
 ## Verification
 
