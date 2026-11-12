@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400">
+<rect width="1000" height="400" fill="white"/>
+<path d="M65 200H950" stroke="#9ba8b5" stroke-width="2" stroke-dasharray="9 7"/>
+<path d="M360 45Q395 200 360 355Q325 200 360 45Z" fill="#d8edf7" stroke="#2471a3" stroke-width="3"/>
+<path d="M835 35V365" stroke="#465b70" stroke-width="5"/>
+<g stroke="#d08025" stroke-width="3" fill="none"><path d="M80 125H360"/><path d="M80 275H360"/></g>
+<circle cx="500" cy="200" r="6" fill="#c2410c"/><text x="510" y="225" fill="#c2410c" font-family="Arial,sans-serif" font-size="22">F</text><path d="M360 232H500 M360 226V238 M500 226V238" stroke="#c2410c" stroke-width="2"/><text x="418" y="251" fill="#c2410c" font-family="Arial,sans-serif" font-size="20">f</text><g fill="#253648" font-family="Arial,sans-serif" font-size="22"><text x="314" y="28">Lens</text><text x="802" y="25">Screen</text><text x="85" y="105">Ray A</text><text x="85" y="304">Ray B</text></g>
+<path d="M360 380H835" stroke="#465b70" stroke-width="1.5"/><path d="M360 374V386M835 374V386" stroke="#465b70" stroke-width="1.5"/>
+<text x="595" y="374" fill="#253648" font-family="Arial,sans-serif" font-size="21">L</text>
+</svg>

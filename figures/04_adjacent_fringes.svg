@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640">
+<rect width="900" height="640" fill="white"/>
+<defs><clipPath id="region"><rect x="38" y="34" width="697" height="540"/></clipPath><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7" fill="#777"/></marker></defs>
+<g clip-path="url(#region)">
+<path d="M-60.28 34 L54.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M10.28 34 L-104.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M-20.28 34 L94.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M50.28 34 L-64.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M19.72 34 L134.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M90.28 34 L-24.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M59.72 34 L174.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M130.28 34 L15.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M99.72 34 L214.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M170.28 34 L55.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M139.72 34 L254.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M210.28 34 L95.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M179.72 34 L294.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M250.28 34 L135.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M219.72 34 L334.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M290.28 34 L175.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M259.72 34 L374.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M330.28 34 L215.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M299.72 34 L414.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M370.28 34 L255.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M339.72 34 L454.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M410.28 34 L295.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M379.72 34 L494.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M450.28 34 L335.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M419.72 34 L534.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M490.28 34 L375.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M459.72 34 L574.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M530.28 34 L415.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M499.72 34 L614.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M570.28 34 L455.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M539.72 34 L654.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M610.28 34 L495.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M579.72 34 L694.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M650.28 34 L535.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M619.72 34 L734.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M690.28 34 L575.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M659.72 34 L774.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M730.28 34 L615.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M699.72 34 L814.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M770.28 34 L655.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M739.72 34 L854.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M810.28 34 L695.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M779.72 34 L894.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M850.28 34 L735.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M819.72 34 L934.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M890.28 34 L775.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M859.72 34 L974.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M930.28 34 L815.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M899.72 34 L1014.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M970.28 34 L855.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M939.72 34 L1054.50 574" stroke="#3474c4" stroke-width="1.55" opacity="0.55" fill="none"/>
+<path d="M1010.28 34 L895.50 574" stroke="#d17a28" stroke-width="1.55" opacity="0.55" fill="none"/>
+</g>
+<rect x="735" y="34" width="9" height="540" fill="#414957"/>
+<text x="757" y="53" font-size="20" font-family="sans-serif" fill="#222">Screen</text>
+<circle cx="739" cy="200" r="5" fill="#161b22"/><text x="755" y="206" font-family="sans-serif" font-size="21">P</text>
+<circle cx="739" cy="296.19" r="5" fill="#161b22"/><text x="755" y="302.19" font-family="sans-serif" font-size="21">Q</text>
+<path d="M825 200 V296.19 M818 200 H832 M818 296.19 H832" stroke="#555" stroke-width="1.6" fill="none"/>
+<text x="838" y="253.10" font-size="20" font-family="sans-serif">d₀</text>
+<path d="M735 200 L715.44 204.16 L735 296.19" stroke="#2865af" stroke-width="2.8" fill="none"/>
+<path d="M721.44 203.16 L723.44 211.16 L731.44 209.16" stroke="#2865af" stroke-width="1.5" fill="none"/>
+<text x="695.44" y="206.16" font-size="18" font-family="sans-serif" fill="#2865af">R</text>
+<text x="690.44" y="190.08" font-size="17" font-family="sans-serif" fill="#2865af">projection</text>
+<text x="698.44" y="262.18" font-size="16" font-family="sans-serif" fill="#2865af">triangle for wave 1</text>
+<path d="M140 595 H185" stroke="#3474c4" stroke-width="3"/><text x="195" y="601" font-family="sans-serif" font-size="17">Wave 1 crests</text>
+<path d="M405 595 H450" stroke="#d17a28" stroke-width="3"/><text x="460" y="601" font-family="sans-serif" font-size="17">Wave 2 crests</text>
+<text x="40" y="625" font-family="sans-serif" font-size="14" fill="#555">Schematic geometry: Q is one full cycle of relative phase below P; wavefronts are crests only.</text>
+</svg>

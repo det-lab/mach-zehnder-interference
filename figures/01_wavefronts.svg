@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="570" viewBox="0 0 900 570">
+<rect width="100%" height="100%" fill="white"/>
+<defs><clipPath id="area"><rect x="28" y="18" width="702" height="517"/></clipPath></defs><g clip-path="url(#area)">
+<line x1="-64.46" y1="18" x2="26.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="-34.46" y1="18" x2="56.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="-4.46" y1="18" x2="86.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="25.54" y1="18" x2="116.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="55.54" y1="18" x2="146.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="85.54" y1="18" x2="176.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="115.54" y1="18" x2="206.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="145.54" y1="18" x2="236.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="175.54" y1="18" x2="266.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="205.54" y1="18" x2="296.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="235.54" y1="18" x2="326.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="265.54" y1="18" x2="356.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="295.54" y1="18" x2="386.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="325.54" y1="18" x2="416.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="355.54" y1="18" x2="446.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="385.54" y1="18" x2="476.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="415.54" y1="18" x2="506.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="445.54" y1="18" x2="536.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="475.54" y1="18" x2="566.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="505.54" y1="18" x2="596.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="535.54" y1="18" x2="626.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="565.54" y1="18" x2="656.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="595.54" y1="18" x2="686.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="625.54" y1="18" x2="716.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="655.54" y1="18" x2="746.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="685.54" y1="18" x2="776.70" y2="535" stroke="#3474c4" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="715.54" y1="18" x2="806.70" y2="535" stroke="#3474c4" stroke-width="1.65" opacity="0.66" />
+<line x1="24.46" y1="18" x2="-66.70" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="54.46" y1="18" x2="-36.70" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="84.46" y1="18" x2="-6.70" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="114.46" y1="18" x2="23.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="144.46" y1="18" x2="53.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="174.46" y1="18" x2="83.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="204.46" y1="18" x2="113.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="234.46" y1="18" x2="143.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="264.46" y1="18" x2="173.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="294.46" y1="18" x2="203.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="324.46" y1="18" x2="233.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="354.46" y1="18" x2="263.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="384.46" y1="18" x2="293.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="414.46" y1="18" x2="323.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="444.46" y1="18" x2="353.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="474.46" y1="18" x2="383.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="504.46" y1="18" x2="413.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="534.46" y1="18" x2="443.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="564.46" y1="18" x2="473.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="594.46" y1="18" x2="503.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="624.46" y1="18" x2="533.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="654.46" y1="18" x2="563.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="684.46" y1="18" x2="593.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="714.46" y1="18" x2="623.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="744.46" y1="18" x2="653.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+<line x1="774.46" y1="18" x2="683.30" y2="535" stroke="#d17a28" stroke-width="1.15" opacity="0.48" stroke-dasharray="5 5"/>
+<line x1="804.46" y1="18" x2="713.30" y2="535" stroke="#d17a28" stroke-width="1.65" opacity="0.66" />
+</g>
+<line x1="730" y1="18" x2="730" y2="535" stroke="#475569" stroke-width="5"/>
+<text x="742" y="42" font-family="DejaVu Sans" font-size="19" fill="#334155">Screen</text>
+<text x="35" y="558" font-family="DejaVu Sans" font-size="15" fill="#3474c4">Blue: wave 1</text><text x="215" y="558" font-family="DejaVu Sans" font-size="15" fill="#d17a28">Orange: wave 2</text><text x="430" y="558" font-family="DejaVu Sans" font-size="13" fill="#475569">Solid = crest; dashed = trough</text>
+</svg>
