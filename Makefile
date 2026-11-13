@@ -3,6 +3,7 @@ PYTHON ?= python3
 all: figures pdf
 figures:
 	$(PYTHON) make_triptych.py
+	$(PYTHON) make_setup.py
 	$(PYTHON) render_figures.py
 pdf:
 	latexmk -pdf -interaction=nonstopmode -halt-on-error worksheet.tex

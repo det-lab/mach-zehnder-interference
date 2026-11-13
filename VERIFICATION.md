@@ -46,3 +46,13 @@ Removed the phrase “sufficiently differentiable” from the Taylor introductio
 ## Far-screen prompt clarification
 
 Question 14 now explicitly asks: “Explain why the term f/L can be neglected in this limit.” The preceding derivation prompt and formula are unchanged. Recompiled to nine pages without warnings and visually checked the revised page.
+
+## Apparatus schematic and experimental check
+
+Added an original setup schematic and its Python generator. It shows the unexpanded laser input, two beam splitters, two mirrors, and a converging lens in one output after the second beam splitter. The lens-to-screen distance L and focal length f = 75 mm are labeled. The caption explains the choice to keep the beams narrow during alignment. The Thorlabs manual was consulted as an apparatus reference; its artwork is not included, and its input-lens placement is not copied.
+
+Question 14 now asks students to calculate f/L from their experimental values and explain why the term can be neglected. Explicit page breaks keep Question 10 with its hint, the measurement section together, and Question 15 with both subparts. The worksheet now contains ten pages. Earlier page-count records describe previous revisions.
+
+Verified all nine figure sources render, confirmed the original eight SVGs and their PDF exports remain unchanged, and visually reviewed the new schematic and all four affected worksheet pages. Strict PDF parsing succeeds, footer links work on every page, and there are no compilation errors or overfull/underfull boxes. pdfTeX reports its standard multiple-transparency-group inclusion warning on pages containing two Cairo figure exports; this does not affect rendering or strict PDF parsing.
+
+A clean build in a separate folder, excluding all generated PDFs and TeX intermediates, regenerated all figures and the ten-page worksheet. Every rebuilt page has pixels identical to the delivered PDF at the comparison resolution.
