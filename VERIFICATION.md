@@ -56,3 +56,7 @@ Question 14 now asks students to calculate f/L from their experimental values an
 Verified all nine figure sources render, confirmed the original eight SVGs and their PDF exports remain unchanged, and visually reviewed the new schematic and all four affected worksheet pages. Strict PDF parsing succeeds, footer links work on every page, and there are no compilation errors or overfull/underfull boxes. pdfTeX reports its standard multiple-transparency-group inclusion warning on pages containing two Cairo figure exports; this does not affect rendering or strict PDF parsing.
 
 A clean build in a separate folder, excluding all generated PDFs and TeX intermediates, regenerated all figures and the ten-page worksheet. Every rebuilt page has pixels identical to the delivered PDF at the comparison resolution.
+
+## Final-page consolidation
+
+Moved Question 15 onto the same page as Question 14 by placing the measurement table on the preceding page and starting Question 14 on a fresh page. All question text and answer-space lengths are unchanged. The current worksheet is nine pages; Questions 14 and 15 are together on page 9. Compiled successfully without overfull boxes and visually reviewed pages 8 and 9.
