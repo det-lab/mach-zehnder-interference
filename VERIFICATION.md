@@ -3,7 +3,7 @@
 Verified on November 12, 2026.
 
 - Recovered all source-archive files. All eight SVGs are included. Seven SVGs and the archived PNG remain byte-identical to the recovered originals. The superposition SVG has only the requested heading change and added unequal-amplitude explanation.
-- Worksheet content from Part B through the end of the document is preserved except for the author-requested revisions to Questions 4(c) and 7, documented below. The first-page changes are the requested introduction, with compact figure spacing to preserve the original eight-page layout. The redundant snapshot label was removed after review. Author and license links appear in every page footer. Header-height and PDF transparency-group compatibility adjustments do not change the worksheet content or figure geometry.
+- Worksheet content from Part B through the end of the document is preserved except for the author-requested revisions to Questions 4(c) and 7 and the use of the directly measured lens-to-screen distance in Parts D and E, documented below. The first-page changes are the requested introduction, with compact figure spacing to preserve the original eight-page layout. The redundant snapshot label was removed after review. Author and license links appear in every page footer. Header-height and PDF transparency-group compatibility adjustments do not change the worksheet content or figure geometry.
 - Regenerated the triptych SVG from the recovered Python drawing instructions; its SVG output is byte-identical to the archived SVG.
 - Converted all eight SVGs to single-page PDFs and compiled the worksheet using `make`.
 - The final build produced eight pages with no LaTeX warnings, overfull boxes, or underfull boxes.
@@ -26,3 +26,9 @@ Changed Question 4(c) to “Mark the three locations on the screen where you pre
 ## Small-angle question revision
 
 Question 7 now asks students to “show that in the small-angle limit” before the unchanged equations. Removed “Write the algebra and identify where the small-angle approximation enters.” Corrected the derivation reference to Question 6, which contains the adjacent-fringe construction. Recompiled to eight pages without warnings and visually checked the revised page.
+
+## Direct lens-to-screen measurement
+
+Replaced the separate beam-splitter distances with the directly measured lens-to-screen distance L throughout Parts D and E. The magnification remains M = |1 - L/f|. The far-screen condition is L >> f, with theta approximately lambda L / (f d_screen); the uncertainty prompt now uses sigma_L/L. Updated the measurement table to record wavelength, focal length, L, fringe spacing, M, and theta, and described moving the screen relative to the lens. Figure sources are unchanged.
+
+Recompiled successfully to eight pages without warnings or overfull/underfull boxes. Confirmed the old D and a variables are absent from worksheet math, checked the L approximation and uncertainty notation, and visually reviewed all three revised pages (6–8).

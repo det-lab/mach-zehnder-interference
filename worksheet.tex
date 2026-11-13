@@ -114,7 +114,7 @@ to express these changes in terms of $d_0$ and $\theta$.
 
 \newpage
 \section*{Part D. How can a lens enlarge the pattern?}
-We now place a \emph{thin converging lens} after the second beam splitter. Let $D$ be the distance from the second beam splitter to the screen, $a$ the distance from the second beam splitter to the lens, and $L$ the distance from the lens to the screen. Therefore, $L=D-a$. We will use a geometrical-optics model of how a transverse coordinate is mapped from the lens plane to the screen. Avoid the focal plane ($L=f$), where this simple fringe-magnification model breaks down.
+We now place a \emph{thin converging lens} after the second beam splitter. Let $L$ be the distance from the lens to the screen. We will use a geometrical-optics model of how a transverse coordinate is mapped from the lens plane to the screen. Avoid the focal plane ($L=f$), where this simple fringe-magnification model breaks down.
 \begin{enumerate}[resume]
 \item Two rays arrive at the lens parallel to the optical axis, at heights $y_1$ and $y_2$. On the diagram, continue the rays after the lens. Recall: a ray entering parallel to the axis passes through the back focal point, a distance $f$ beyond the lens. The back focal point $F$ is marked on the optical axis. Use it to trace the two refracted rays.
 \fig{0.94}{03_lens_rays}
@@ -128,7 +128,7 @@ Hint: the ray's slope immediately after the lens is approximately $-y/f$. Show y
 \[\boxed{d_{\rm screen}=M d_0,\qquad M=\left|1-\frac{L}{f}\right|.}\]
 Why do we need the absolute value? What happens when $L>f$?
 \answerspace{0.54in}
-\item Substitute $L=D-a$, then combine this result with Part C. Solve for the incoming beam angle $\theta$ in terms of $\lambda$, $d_{\rm screen}$, $D$, $a$, and $f$. Circle your final result.
+\item Combine this result with Part C. Solve for the incoming beam angle $\theta$ in terms of $\lambda$, $d_{\rm screen}$, $L$, and $f$. Circle your final result.
 \answerspace{0.82in}
 \end{enumerate}
 
@@ -137,24 +137,24 @@ Why do we need the absolute value? What happens when $L>f$?
 \item Record the values below, convert all lengths to meters, and calculate $M$ and $\theta$. Use radians for the angle, then convert to degrees.
 \[\begin{array}{rcl@{\qquad}rcl}
 \lambda&=&\underline{\hspace{1.2in}}&f&=&\underline{\hspace{1.2in}}\\[12pt]
-D&=&\underline{\hspace{1.2in}}&a&=&\underline{\hspace{1.2in}}\\[12pt]
-d_{\rm screen}&=&\underline{\hspace{1.2in}}&M&=&\underline{\hspace{1.2in}}
+L&=&\underline{\hspace{1.2in}}&d_{\rm screen}&=&\underline{\hspace{1.2in}}\\[12pt]
+M&=&\underline{\hspace{1.2in}}&\theta&=&\underline{\hspace{1.2in}}
 \end{array}\]
 \answerspace{0.6in}
-\item \textbf{Approximation and uncertainty.} For $D\gg f,a$, use
-\[\theta\approx\frac{\lambda D}{f\,d_{\rm screen}}.\]
+\item \textbf{Approximation and uncertainty.} For $L\gg f$, use
+\[\theta\approx\frac{\lambda L}{f\,d_{\rm screen}}.\]
 \textbf{(a)} The general propagation-of-uncertainty formula for independent measurements is
 \[\sigma_q=\sqrt{\sum_i\left(\frac{\partial q}{\partial z_i}\sigma_{z_i}\right)^2},\]
 where $q=q(z_1,z_2,\ldots)$ and $\sigma_{z_i}$ is the standard uncertainty in $z_i$.
-Apply this formula to $\theta$ and write an expression for the \emph{fractional uncertainty} $\sigma_\theta/\theta$ in terms of the fractional uncertainties in $\lambda$, $D$, $f$, and $d_{\rm screen}$. Show the partial derivatives or your intermediate steps; do not skip straight to the simplified answer.
+Apply this formula to $\theta$ and write an expression for the \emph{fractional uncertainty} $\sigma_\theta/\theta$ in terms of the fractional uncertainties in $\lambda$, $L$, $f$, and $d_{\rm screen}$. Show the partial derivatives or your intermediate steps; do not skip straight to the simplified answer.
 \smallskip
 \noindent\textbf{Worked examples (optional):} \href{https://physicslabs.colorado.edu/courses/python/data-analysis/error-propagation}{CU Boulder: Error Propagation with Python} (derivatives and independent uncertainties); \href{https://www.physics.wisc.edu/instructional/LabManuals/Archive/UWPhysics202Fall22LabManual.pdf}{Wisconsin Physics 202 Lab Manual} (worked examples of fractional uncertainties).
 \par\smallskip
-\textbf{(b)} If the wavelength and focal length are treated as exact compared with the measured distances, explain which terms can be neglected. Simplify your expression to include only $\sigma_D/D$ and $\sigma_d/d_{\rm screen}$.
+\textbf{(b)} If the wavelength and focal length are treated as exact compared with the measured distances, explain which terms can be neglected. Simplify your expression to include only $\sigma_L/L$ and $\sigma_d/d_{\rm screen}$.
 \textbf{(c)} Which measured quantity contributes more to your uncertainty in $\theta$? Justify your answer using fractional uncertainties, not absolute uncertainties.
 \smallskip
 \answerspace{1.45in}
-\item \textbf{Concept check: moving the screen.} Suppose you move the screen farther away from the second beam splitter, without changing the lens or the alignment of the interferometer.
+\item \textbf{Concept check: moving the screen.} Suppose you move the screen farther away from the lens, without changing the lens or the alignment of the interferometer.
 
 \textbf{(a)} Would the distance between adjacent bright fringes increase, decrease, or stay the same?
 
