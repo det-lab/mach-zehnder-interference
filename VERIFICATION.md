@@ -42,3 +42,7 @@ The current worksheet compiles to nine pages without warnings or overfull/underf
 ## Far-screen approximation derivation
 
 Removed the phrase “sufficiently differentiable” from the Taylor introduction. Question 14 now asks students to derive theta approximately lambda L / (f d_screen) from Question 12 for L >> f, identify the small dimensionless ratio, and explain which term can be neglected before proceeding to uncertainty propagation. Added work space for this derivation. The final worksheet remains nine pages and compiles without warnings or overfull/underfull boxes. Visually checked the updated Taylor activity and measurement/uncertainty pages.
+
+## Far-screen prompt clarification
+
+Question 14 now explicitly asks: “Explain why the term f/L can be neglected in this limit.” The preceding derivation prompt and formula are unchanged. Recompiled to nine pages without warnings and visually checked the revised page.
