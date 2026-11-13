@@ -60,3 +60,7 @@ A clean build in a separate folder, excluding all generated PDFs and TeX interme
 ## Final-page consolidation
 
 Moved Question 15 onto the same page as Question 14 by placing the measurement table on the preceding page and starting Question 14 on a fresh page. All question text and answer-space lengths are unchanged. The current worksheet is nine pages; Questions 14 and 15 are together on page 9. Compiled successfully without overfull boxes and visually reviewed pages 8 and 9.
+
+## Question 6(b) layout
+
+Grouped the Wave 2 instructions and diagram in an unbreakable block. They now appear together on page 5. The worksheet remains nine pages. No question text or figure sources changed. Compiled successfully without overfull boxes and visually reviewed pages 4 and 5.
