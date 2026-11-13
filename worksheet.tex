@@ -105,9 +105,26 @@ to express these changes in terms of $d_0$ and $\theta$.
 \begin{center}\includegraphics[width=0.96\linewidth]{figures/04_wave2_student.pdf}\end{center}
 \textbf{(c)} Combine the two changes to find the change in \emph{relative} path difference between $P$ and $Q$. What must its magnitude equal for adjacent bright fringes? Use your triangles to derive the target result $d_0=\lambda/[2\sin(\theta/2)]$.
 \answerspace{0.1in}
-\item Let $d_0$ be the fringe spacing \emph{without} the lens. Summarize the geometric derivation from Question 6 and show that in the small-angle limit
+\newpage
+\item \textbf{Using a Taylor approximation.} Let $d_0$ be the fringe spacing \emph{without} the lens. Summarize the geometric derivation from Question 6 and show that in the small-angle limit
 \[\boxed{d_0=\frac{\lambda}{2\sin(\theta/2)}\approx\frac{\lambda}{\theta}}\quad\text{for }\theta\text{ in radians and }\theta\ll1.\]
-\answerspace{0.64in}
+
+\textbf{Why use a Taylor approximation?} A complicated expression can often be well approximated by a much simpler expression that is easier to work with. Near zero, we can approximate a function by the first few terms of its Taylor expansion:
+\[
+g(x)\approx g(0)+g'(0)x+\frac{g''(0)}{2!}x^2+\frac{g'''(0)}{3!}x^3.
+\]
+Here $g$ denotes a general function. Your task is to identify the appropriate small, dimensionless parameter and decide which terms are needed.
+
+\textbf{(a)} In the sine function in the fringe-spacing expression, what quantity plays the role of $x$? Explain why it is small when $\theta\ll1$, and why the angle must be expressed in radians.
+\answerspace{0.30in}
+
+\textbf{(b)} For $g(x)=\sin x$, evaluate $g(0)$ and its first three derivatives at zero. Use the formula above to construct the expansion through the cubic term. Compare the magnitude of the cubic term with that of the linear term: under what condition is the cubic term negligible?
+\answerspace{0.65in}
+
+\textbf{(c)} Substitute your small parameter into the leading nonzero term of the expansion. Use it to simplify the fringe-spacing expression and obtain the small-angle result above.
+\answerspace{0.45in}
+
+\textbf{Taylor-series help (optional):} \href{https://www.3blue1brown.com/lessons/taylor-series/}{3Blue1Brown: Taylor series} (visual introduction to why the approximation works); \href{https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/}{MIT OpenCourseWare: Taylor's Series, Continued}, especially Clip 3, \textit{Taylor's Series of $\sin(x)$}.
 \item Does this ideal plane-wave expression contain the screen distance? Explain in words why moving the screen does not enlarge these fringes.
 \answerspace{0.43in}
 \end{enumerate}
@@ -141,8 +158,11 @@ L&=&\underline{\hspace{1.2in}}&d_{\rm screen}&=&\underline{\hspace{1.2in}}\\[12p
 M&=&\underline{\hspace{1.2in}}&\theta&=&\underline{\hspace{1.2in}}
 \end{array}\]
 \answerspace{0.6in}
-\item \textbf{Approximation and uncertainty.} For $L\gg f$, use
+\item \textbf{Approximation and uncertainty.} Starting with your small-angle result from Question 12, show that for $L\gg f$,
 \[\theta\approx\frac{\lambda L}{f\,d_{\rm screen}}.\]
+Identify the small, dimensionless ratio in this limit and explain which term can be neglected.
+\answerspace{0.45in}
+
 \textbf{(a)} The general propagation-of-uncertainty formula for independent measurements is
 \[\sigma_q=\sqrt{\sum_i\left(\frac{\partial q}{\partial z_i}\sigma_{z_i}\right)^2},\]
 where $q=q(z_1,z_2,\ldots)$ and $\sigma_{z_i}$ is the standard uncertainty in $z_i$.

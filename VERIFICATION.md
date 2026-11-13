@@ -32,3 +32,13 @@ Question 7 now asks students to “show that in the small-angle limit” before 
 Replaced the separate beam-splitter distances with the directly measured lens-to-screen distance L throughout Parts D and E. The magnification remains M = |1 - L/f|. The far-screen condition is L >> f, with theta approximately lambda L / (f d_screen); the uncertainty prompt now uses sigma_L/L. Updated the measurement table to record wavelength, focal length, L, fringe spacing, M, and theta, and described moving the screen relative to the lens. Figure sources are unchanged.
 
 Recompiled successfully to eight pages without warnings or overfull/underfull boxes. Confirmed the old D and a variables are absent from worksheet math, checked the L approximation and uncertainty notation, and visually reviewed all three revised pages (6–8).
+
+## Guided Taylor approximation
+
+Expanded Question 7 with an introduction to simplifying complicated expressions, the Taylor formula about zero through the cubic term, and prompts to identify the dimensionless small parameter, construct the sine expansion, compare the neglected term, and recover the small-angle fringe-spacing formula. Added optional links to 3Blue1Brown and MIT OCW Session 99 (Clip 3). The generic function is denoted g to distinguish it from the focal length f. The activity begins on a new page to preserve room for student work; earlier eight-page verification records describe previous revisions.
+
+The current worksheet compiles to nine pages without warnings or overfull/underfull boxes. Verified that both resource links are present as PDF annotations and that Questions 7 and 8 fit together on page 6. Visually reviewed that page. All figure sources are unchanged.
+
+## Far-screen approximation derivation
+
+Removed the phrase “sufficiently differentiable” from the Taylor introduction. Question 14 now asks students to derive theta approximately lambda L / (f d_screen) from Question 12 for L >> f, identify the small dimensionless ratio, and explain which term can be neglected before proceeding to uncertainty propagation. Added work space for this derivation. The final worksheet remains nine pages and compiles without warnings or overfull/underfull boxes. Visually checked the updated Taylor activity and measurement/uncertainty pages.
